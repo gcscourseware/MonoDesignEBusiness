@@ -1,0 +1,29 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home" },
+    { "path": "/designers", "title": "Find designers" },
+    { "path": "/designer/:slug", "title": "Designer profile" },
+    { "path": "/services", "title": "Creative services" },
+    { "path": "/service/:id", "title": "Service details" },
+    { "path": "/categories", "title": "Design categories" },
+    { "path": "/how-it-works", "title": "How it works" },
+    { "path": "/pricing", "title": "Membership plans" },
+    { "path": "/become-a-designer", "title": "For designers" },
+    { "path": "/login", "title": "Log in" },
+    { "path": "/register", "title": "Get started" },
+    { "path": "/onboarding", "title": "Set up your workspace" },
+    { "path": "/cart", "title": "Project cart" },
+    { "path": "/checkout", "title": "Project brief" },
+    { "path": "/dashboard", "title": "Workspace overview" },
+    { "path": "/client/dashboard", "title": "Client workspace" },
+    { "path": "/designer/dashboard", "title": "Designer workspace" },
+    { "path": "/admin/dashboard", "title": "Admin workspace" },
+    { "path": "/orders", "title": "Orders" },
+    { "path": "/projects", "title": "Projects" },
+    { "path": "/project/:id", "title": "Project workspace" },
+    { "path": "/messages", "title": "Messages" },
+    { "path": "/quotes", "title": "Quotes" },
+    { "path": "/notifications", "title": "Notifications" },
+    { "path": "/settings", "title": "Account settings" }
+  ]
+}
